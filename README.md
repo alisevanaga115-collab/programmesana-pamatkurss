@@ -9,6 +9,9 @@ Autors:  **Alise Vanaga**
 ## Licence
 šis projekts izmanto **MIT** licensi.
 
+## Secinājums
+.md fails nav parasts teksta fails, jo Markdown ļauj formatēt virsrakstus, sarakstus un treknrakstu.
+
 
 
 
