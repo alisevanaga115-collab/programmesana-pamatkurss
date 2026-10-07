@@ -7,7 +7,8 @@ Autors:  **Alise Vanaga**
 - ieraksti `py uzdevumi/diena1.py`
 
 ## Licence
-šis projekts izmanto MIT licensi.
+šis projekts izmanto **MIT** licensi.
+
 
 
 
